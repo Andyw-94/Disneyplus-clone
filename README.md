@@ -1,6 +1,8 @@
 # Disneyplus-clone
 A Disney+ clone created with React, Redux, and Firebase(hosting)
 
+Formatted for desktop and mobile!
+
 Deploy live with Firebase!
 
 https://disneyplus-clone-98ae0.web.app/home
